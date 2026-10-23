@@ -17,12 +17,12 @@ La variable objetivo es `Churn` (`Yes` / `No`). Hipótesis de partida: el contra
 
 | Integrante | Rol | Notebook |
 |---|---|---|
-| _Nombre 1_ | Ingesta & Data Prep | `01_prep.ipynb` |
-| _Nombre 2_ | EDA | `02_eda.ipynb` |
-| _Nombre 3_ | Modelado | `03_modelado.ipynb` |
-| _Nombre 4_ | _A definir (informe ejecutivo / revisión / modelado)_ | `docs/INFORME_EJECUTIVO.pdf` |
+| Ariel Zamora | Ingesta & Data Prep | `01_prep.ipynb` |
+| Juan Cruz Bianucci | EDA | `02_eda.ipynb` |
+| Gisele Medina | Modelado | `03_modelado.ipynb` |
+| Luanda Toledo | Soporte en la última etapa (informe ejecutivo / integración final) | `docs/INFORME_EJECUTIVO.pdf` |
 
-> Completar nombres y ajustar la división de tareas.
+> Participación de Luanda Toledo pendiente de confirmar: si no se confirma, las tareas de la última etapa se reparten entre el resto del equipo.
 
 ## Stack
 
